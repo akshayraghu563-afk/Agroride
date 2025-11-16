@@ -1,0 +1,269 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "vehicles": "Vehicles",
+    "bookings": "Bookings",
+    "payments": "Payments",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "forgotPassword": "Forgot password?",
+    "remember": "Remember me",
+    "secure": "Your connection is secure and encrypted",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signIn": "Sign in",
+    "signUp": "Create Account"
+  },
+  "form": {
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "firstName": "First Name",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Enter your last name",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "userType": "I am a",
+    "terms": "I agree to the",
+    "and": "and",
+    "termsLink": "Terms of Service",
+    "privacyLink": "Privacy Policy"
+  },
+  "validation": {
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "passwordRequired": "Password is required",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "confirmPasswordRequired": "Please confirm your password",
+    "confirmPasswordMatch": "Passwords do not match",
+    "firstNameRequired": "First name is required",
+    "lastNameRequired": "Last name is required",
+    "phoneRequired": "Phone number is required",
+    "phoneInvalid": "Please enter a valid 10-digit phone number",
+    "userTypeRequired": "Please select user type"
+  },
+  "userTypes": {
+    "farmer": "Farmer",
+    "farmerDescription": "I want to book tractors and equipment",
+    "owner": "Equipment Owner",
+    "ownerDescription": "I want to rent out my tractors and equipment"
+  },
+  "hero": {
+    "title": "Book Tractors and Farm Equipment Near You",
+    "subtitle": "Connect with verified tractor owners for all your agricultural needs"
+  },
+  "search": {
+    "placeholder": "Enter your location or village name...",
+    "button": "Search"
+  },
+  "stats": {
+    "vehicles": "Vehicles",
+    "bookings": "Bookings",
+    "users": "Users",
+    "satisfaction": "Satisfaction",
+    "totalBookings": "Total Bookings",
+    "completed": "Completed",
+    "pending": "Pending",
+    "totalSpent": "Total Spent",
+    "avgRating": "Avg Rating",
+    "totalVehicles": "Total Vehicles",
+    "active": "active",
+    "totalEarnings": "Total Earnings",
+    "thisMonth": "this month",
+    "totalUsers": "Total Users",
+    "totalRevenue": "Total Revenue",
+    "growth": "this month",
+    "completionRate": "Completion Rate",
+    "averageRating": "Average Rating",
+    "supportTickets": "Support Tickets",
+    "verified": "verified",
+    "total": "Total",
+    "hourlyRate": "Hourly Rate",
+    "currentBookings": "Current Bookings",
+    "activeVehicles": "Active Vehicles"
+  },
+  "features": {
+    "title": "Why Choose AgroRide?",
+    "subtitle": "We make agricultural equipment booking simple, reliable, and affordable",
+    "find": {
+      "title": "Find Vehicles Nearby",
+      "description": "Search and book tractors and agricultural equipment in your area"
+    },
+    "verify": {
+      "title": "Verified Owners",
+      "description": "All vehicle owners are verified with complete documentation"
+    },
+    "realtime": {
+      "title": "Real-time Tracking",
+      "description": "Track your booking progress and vehicle location in real-time"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Get help whenever you need it with our dedicated support team"
+    }
+  },
+  "map": {
+    "title": "Vehicles Available Near You",
+    "subtitle": "Find and book tractors in your vicinity",
+    "nearby": "Nearby Vehicles"
+  },
+  "vehicles": {
+    "nearby": "Nearby Vehicles",
+    "name": "Vehicle Name",
+    "type": "Type",
+    "owner": "Owner",
+    "rating": "Rating",
+    "price": "Price",
+    "distance": "Distance",
+    "documents": "Documents",
+    "registration": "Registration",
+    "insurance": "Insurance",
+    "pollution": "Pollution",
+    "totalBookings": "Total Bookings"
+  },
+  "status": {
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "verified": "Verified",
+    "rejected": "Rejected",
+    "unavailable": "Unavailable"
+  },
+  "booking": {
+    "progress": "Progress",
+    "status": "Status",
+    "location": "Location",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "duration": "Duration",
+    "price": "Price",
+    "track": "Track",
+    "review": "Review",
+    "details": "Details"
+  },
+  "button": {
+    "book": "Book Now",
+    "bookNow": "Book Now",
+    "browse": "Browse All",
+    "viewAll": "View All",
+    "details": "Details",
+    "edit": "Edit",
+    "track": "Track",
+    "review": "Review",
+    "pause": "Pause",
+    "activate": "Activate",
+    "settings": "Settings",
+    "export": "Export",
+    "filter": "Filter",
+    "approve": "Approve",
+    "reject": "Reject",
+    "view": "View"
+  },
+  "filters": {
+    "all": "All Vehicles",
+    "available": "Available Now",
+    "tractor": "Tractors Only",
+    "implements": "With Implements"
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Join thousands of farmers who trust AgroRide for their equipment needs",
+    "register": "Sign Up",
+    "login": "Login"
+  },
+  "farmer": {
+    "dashboard": {
+      "title": "Farmer Dashboard",
+      "subtitle": "Manage your bookings and find equipment for your farm"
+    },
+    "recentBookings": "Recent Bookings",
+    "availableVehicles": "Available Near You"
+  },
+  "owner": {
+    "dashboard": {
+      "title": "Owner Dashboard",
+      "subtitle": "Manage your vehicles and track your earnings"
+    },
+    "tabs": {
+      "overview": "Overview",
+      "vehicles": "My Vehicles",
+      "bookings": "Bookings",
+      "earnings": "Earnings"
+    },
+    "addVehicle": "Add Vehicle",
+    "myVehicles": "My Vehicles",
+    "recentBookings": "Recent Bookings",
+    "allVehicles": "All Vehicles"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "subtitle": "Manage users, vehicles, and platform operations"
+    },
+    "tabs": {
+      "overview": "Overview",
+      "users": "Users",
+      "vehicles": "Vehicles",
+      "bookings": "Bookings",
+      "verifications": "Verifications"
+    },
+    "recentUsers": "Recent Users",
+    "pendingVerifications": "Pending Verifications",
+    "allVerifications": "All Verifications",
+    "ranges": {
+      "7days": "Last 7 days",
+      "30days": "Last 30 days",
+      "90days": "Last 90 days",
+      "1year": "Last year"
+    }
+  },
+  "table": {
+    "vehicle": "Vehicle",
+    "owner": "Owner",
+    "submitted": "Submitted",
+    "status": "Status",
+    "actions": "Actions"
+  },
+  "user": {
+    "register": "Registered",
+    "registeredOn": "Registered"
+  },
+  "verification": {
+    "submitted": "Submitted",
+    "incomplete": "Incomplete",
+    "complete": "Complete"
+  }
+}

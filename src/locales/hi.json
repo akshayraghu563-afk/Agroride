@@ -1,0 +1,269 @@
+{
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफल",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "view": "देखें",
+    "search": "खोजें",
+    "filter": "फिल्टर करें",
+    "sort": "छाँटें",
+    "back": "पीछे",
+    "next": "आगे",
+    "previous": "पिछला",
+    "close": "बंद करें",
+    "confirm": "पुष्टि करें",
+    "yes": "हाँ",
+    "no": "नहीं"
+  },
+  "navigation": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "vehicles": "वाहन",
+    "bookings": "बुकिंग",
+    "payments": "भुगतान",
+    "profile": "प्रोफाइल",
+    "settings": "सेटिंग्स",
+    "logout": "लॉगआउट"
+  },
+  "auth": {
+    "login": "लॉग इन",
+    "register": "रजिस्टर करें",
+    "logout": "लॉगआउट",
+    "forgotPassword": "पासवर्ड भूल गया?",
+    "remember": "मुझे याद रखें",
+    "secure": "आपका कनेक्शन सुरक्षित और एन्क्रिप्टेड है",
+    "noAccount": "खाता नहीं है?",
+    "hasAccount": "पहले से खाता है?",
+    "signIn": "साइन इन करें",
+    "signUp": "खाता बनाएं"
+  },
+  "form": {
+    "email": "ईमेल पता",
+    "emailPlaceholder": "अपना ईमेल दर्ज करें",
+    "password": "पासवर्ड",
+    "passwordPlaceholder": "अपना पासवर्ड दर्ज करें",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "confirmPasswordPlaceholder": "अपना पासवर्ड की पुष्टि करें",
+    "firstName": "पहला नाम",
+    "firstNamePlaceholder": "अपना पहला नाम दर्ज करें",
+    "lastName": "अंतिम नाम",
+    "lastNamePlaceholder": "अपना अंतिम नाम दर्ज करें",
+    "phone": "फोन नंबर",
+    "phonePlaceholder": "अपना फोन नंबर दर्ज करें",
+    "userType": "मैं एक हूं",
+    "terms": "मैं सहमत हूं",
+    "and": "और",
+    "termsLink": "सेवा की शर्तें",
+    "privacyLink": "गोपनीयता नीति"
+  },
+  "validation": {
+    "emailRequired": "ईमेल आवश्यक है",
+    "emailInvalid": "कृपया एक वैध ईमेल दर्ज करें",
+    "passwordRequired": "पासवर्ड आवश्यक है",
+    "passwordMinLength": "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए",
+    "confirmPasswordRequired": "कृपया अपना पासवर्ड की पुष्टि करें",
+    "confirmPasswordMatch": "पासवर्ड मेल नहीं खा रहे हैं",
+    "firstNameRequired": "पहला नाम आवश्यक है",
+    "lastNameRequired": "अंतिम नाम आवश्यक है",
+    "phoneRequired": "फोन नंबर आवश्यक है",
+    "phoneInvalid": "कृपया एक वैध 10-अंकीय फोन नंबर दर्ज करें",
+    "userTypeRequired": "कृपया उपयोगकर्ता प्रकार चुनें"
+  },
+  "userTypes": {
+    "farmer": "किसान",
+    "farmerDescription": "मैं ट्रैक्टर और उपकरण बुक करना चाहता हूं",
+    "owner": "उपकरण मालिक",
+    "ownerDescription": "मैं अपने ट्रैक्टर और उपकरण किराए पर देना चाहता हूं"
+  },
+  "hero": {
+    "title": "अपने पास ट्रैक्टर और खेती उपकरण बुक करें",
+    "subtitle": "सत्यापित ट्रैक्टर मालिकों से जुड़ें और अपनी सभी कृषि आवश्यकताओं के लिए जुड़ें"
+  },
+  "search": {
+    "placeholder": "अपना स्थान या गांव का नाम दर्ज करें...",
+    "button": "खोजें"
+  },
+  "stats": {
+    "vehicles": "वाहन",
+    "bookings": "बुकिंग",
+    "users": "उपयोगकर्ता",
+    "satisfaction": "संतुष्टि",
+    "totalBookings": "कुल बुकिंग",
+    "completed": "पूर्ण",
+    "pending": "लंबित",
+    "totalSpent": "कुल खर्च",
+    "avgRating": "औसत रेटिंग",
+    "totalVehicles": "कुल वाहन",
+    "active": "सक्रिय",
+    "totalEarnings": "कुल कमाई",
+    "thisMonth": "इस महीने",
+    "totalUsers": "कुल उपयोगकर्ता",
+    "totalRevenue": "कुल राजस्व",
+    "growth": "इस महीने",
+    "completionRate": "पूर्ति दर",
+    "averageRating": "औसत रेटिंग",
+    "supportTickets": "सहायता टिकट",
+    "verified": "सत्यापित",
+    "total": "कुल",
+    "hourlyRate": "प्रति घंटा दर",
+    "currentBookings": "वर्तमान बुकिंग",
+    "activeVehicles": "सक्रिय वाहन"
+  },
+  "features": {
+    "title": "एग्रोराइड क्यों चुनें?",
+    "subtitle": "हम कृषि उपकरण बुकिंग को सरल, विश्वसनीय और किफायत बनाते हैं",
+    "find": {
+      "title": "पास के वाहन खोजें",
+      "description": "अपने क्षेत्र में ट्रैक्टर और कृषि उपकरण खोजें और बुक करें"
+    },
+    "verify": {
+      "title": "सत्यापित मालिक",
+      "description": "सभी वाहन मालिक पूर्ण दस्तावेज के साथ सत्यापित हैं"
+    },
+    "realtime": {
+      "title": "रीयल-टाइम ट्रैकिंग",
+      "description": "अपनी बुकिंग प्रगति और वाहन स्थान रीयल-टाइम में ट्रैक करें"
+    },
+    "support": {
+      "title": "24/7 सहायता",
+      "description": "हमारी समर्पित सहायता टीम के साथ कभी भी मदद लें"
+    }
+  },
+  "map": {
+    "title": "आपके पास उपलब्ध वाहन",
+    "subtitle": "अपने आसपास में ट्रैक्टर खोजें और बुक करें",
+    "nearby": "पास के वाहन"
+  },
+  "vehicles": {
+    "nearby": "पास के वाहन",
+    "name": "वाहन का नाम",
+    "type": "प्रकार",
+    "owner": "मालिक",
+    "rating": "रेटिंग",
+    "price": "मूल्य",
+    "distance": "दूरी",
+    "documents": "दस्तावेज",
+    "registration": "रजिस्ट्रेशन",
+    "insurance": "बीमा",
+    "pollution": "प्रदूषण प्रमाणपत्र",
+    "totalBookings": "कुल बुकिंग"
+  },
+  "status": {
+    "pending": "लंबित",
+    "confirmed": "पुष्टित",
+    "inProgress": "प्रगति में",
+    "completed": "पूर्ण",
+    "cancelled": "रद्द",
+    "verified": "सत्यापित",
+    "rejected": "अस्वीकृत",
+    "unavailable": "उपलब्ध नहीं"
+  },
+  "booking": {
+    "progress": "प्रगति",
+    "status": "स्थिति",
+    "location": "स्थान",
+    "startTime": "शुरू होने का समय",
+    "endTime": "समाप्त होने का समय",
+    "duration": "अवधि",
+    "price": "मूल्य",
+    "track": "ट्रैक करें",
+    "review": "समीक्षा करें",
+    "details": "विवरण"
+  },
+  "button": {
+    "book": "अभी बुक करें",
+    "bookNow": "अभी बुक करें",
+    "browse": "सभी देखें",
+    "viewAll": "सभी देखें",
+    "details": "विवरण",
+    "edit": "संपादित करें",
+    "track": "ट्रैक करें",
+    "review": "समीक्षा करें",
+    "pause": "रोकें",
+    "activate": "सक्रिय करें",
+    "settings": "सेटिंग्स",
+    "export": "निर्यात करें",
+    "filter": "फिल्टर करें",
+    "approve": "स्वीकृत करें",
+    "reject": "अस्वीकृत करें",
+    "view": "देखें"
+  },
+  "filters": {
+    "all": "सभी वाहन",
+    "available": "अभी उपलब्ध",
+    "tractor": "केवल ट्रैक्टर",
+    "implements": "उपकरण के साथ"
+  },
+  "cta": {
+    "title": "शुरू करने के लिए तैयार हैं?",
+    "subtitle": "एग्रोराइड पर अपनी उपकरण जरूरत हजारों के समूह में शामिल हों",
+    "register": "साइन अप करें",
+    "login": "लॉग इन करें"
+  },
+  "farmer": {
+    "dashboard": {
+      "title": "किसान डैशबोर्ड",
+      "subtitle": "अपनी बुकिंग प्रबंधित करें और अपने खेत के लिए उपकरण खोजें"
+    },
+    "recentBookings": "हाल की बुकिंग",
+    "availableVehicles": "पास उपलब्ध वाहन"
+  },
+  "owner": {
+    "dashboard": {
+      "title": "मालिक डैशबोर्ड",
+      "subtitle": "अपने वाहन प्रबंधित करें और अपनी कमाई ट्रैक करें"
+    },
+    "tabs": {
+      "overview": "अवलोक",
+      "vehicles": "मेरे वाहन",
+      "bookings": "बुकिंग",
+      "earnings": "कमाई"
+    },
+    "addVehicle": "वाहन जोड़ें",
+    "myVehicles": "मेरे वाहन",
+    "recentBookings": "हाल की बुकिंग",
+    "allVehicles": "सभी वाहन"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "एडमिन डैशबोर्ड",
+      "subtitle": "उपयोगकर्ताओं, वाहनों और प्लेटफॉर्म संचालन प्रबंधित करें"
+    },
+    "tabs": {
+      "overview": "अवलोक",
+      "users": "उपयोगकर्ता",
+      "vehicles": "वाहन",
+      "bookings": "बुकिंग",
+      "verifications": "सत्यापन"
+    },
+    "recentUsers": "हाल के उपयोगकर्ता",
+    "pendingVerifications": "लंबित सत्यापन",
+    "allVerifications": "सभी सत्यापन",
+    "ranges": {
+      "7days": "पिछले 7 दिन",
+      "30days": "पिछले 30 दिन",
+      "90days": "पिछले 90 दिन",
+      "1year": "पिछले साल"
+    }
+  },
+  "table": {
+    "vehicle": "वाहन",
+    "owner": "मालिक",
+    "submitted": "जमा किया गया",
+    "status": "स्थिति",
+    "actions": "कार्रवाई"
+  },
+  "user": {
+    "register": "रजिस्टर्ड",
+    "registeredOn": "रजिस्टर्ड"
+  },
+  "verification": {
+    "submitted": "जमा किया गया",
+    "incomplete": "अपूर्ण",
+    "complete": "पूर्ण"
+  }
+}
